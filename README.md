@@ -2,7 +2,7 @@
 
 
 * 2020-3-20: https://cuhksz.zoom.us/rec/share/v9NVf5vt2l5IWZHEtnneAokoQr_rT6a8g3Qf-_YKzRwnXjRzGphYHC96ycnE45st
-朱睿，袁之浩，顾晓哲
+李镇，朱睿，袁之浩，顾晓哲
 
 
 * 2020-3-27:  https://cuhksz.zoom.us/rec/share/7sUtcK7V82dIBa_ozUXyaK8YH5_0X6a8hCFM_vIKmAU4Bq3FmXFlqigeFiLgXsQ
