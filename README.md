@@ -14,7 +14,10 @@
 
 
 * 2020-4-10: 张蒙豪,高建焘,朱谙语
-* 2020-4-17: 赵伟兵, 高深，丁伟桢
+* 2020-4-17: https://cuhksz.zoom.us/rec/share/55RxHqntyyROQYnBt2DxUPAcD9vkX6a82yBK8qJbnh25CuAZoTh8eUk_qlfsREUl (Access Password: w9$+?1+3)  赵伟兵, 高深
+
+* 2020-4-24: 丁伟桢 
+
 
 
 
