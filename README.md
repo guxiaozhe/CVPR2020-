@@ -18,7 +18,7 @@
 * 2020-4-24: 丁伟桢 ，王钦，王博远  https://cuhksz.zoom.us/rec/share/u9xoI-v970NLT4nT5n7ZYpQgGpbVeaa80yVM_vsInxxRHNCpG_VvsUwZL9mwBRDd Password: 8s^%74$$
 * 2020-5-1 王博远，刘广熠 ，黄冕
 * 2020-5-8 张敏清，蒋云辰，徐鹏程 https://cuhksz.zoom.us/rec/share/1ddaLonitTJJE53W6kDzU4MmQqO-T6a8gXcd8voLnkzwCG4tgILGW1jGfVYxy7zP Password: 7n#8eD37
-* 2020-5-15 
+* 2020-5-15 张敏清，张子逊， 秦世熙  https://cuhksz.zoom.us/rec/share/xpReDaPX83NOf6vDuHr5C4IuTqC0T6a81CYf8qEFy08leF4OXHFfWPOui4pstE7u Password: 5B!Bm#5I  
 
 
 
