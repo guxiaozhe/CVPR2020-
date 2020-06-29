@@ -28,7 +28,15 @@
   Share recording with viewers:
   https://cuhksz.zoom.us/rec/share/xcB_MqzQ5j9IGqvq9GjuS6ojA4PqT6a823McqPdfz0mslYEjhY4NIh83kaU4-OvK Password: 4X@5=1%8
 
-* 2020-6-26
+* 2020-6-26  赵伟兵 ， 高建焘， 颜旭
+
+  For host only, click here to view your recording (Viewers cannot access this page):
+  https://cuhksz.zoom.us/recording/detail?meeting_id=AK%2Br4AX6Rb27eH6CvvTyYA%3D%3D
+
+  Share recording with viewers:
+  https://cuhksz.zoom.us/rec/share/zO82Ne3Zxj1ISNaS5WGBcbA_IpXUX6a80SkZqKVeykyjCmrlh_fBo0Oyiy_l5fyQ Password: 5w&9@*4D
+
+* 2020-7-03
 
 
 
