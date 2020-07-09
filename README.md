@@ -36,9 +36,15 @@
   Share recording with viewers:
   https://cuhksz.zoom.us/rec/share/zO82Ne3Zxj1ISNaS5WGBcbA_IpXUX6a80SkZqKVeykyjCmrlh_fBo0Oyiy_l5fyQ Password: 5w&9@*4D
 
-* 2020-7-03
+* 2020-7-03  黄冕 王钦   For host only, click here to view your recording (Viewers cannot access this page):
+  https://cuhksz.zoom.us/recording/detail?meeting_id=wes0EtG%2FTb%2BmyI7%2BaaBg0g%3D%3D
 
+  Share recording with viewers:
+  https://cuhksz.zoom.us/rec/share/-sFud5zs2SROSM_I-WCAGacoNIu9eaa8h3cX-fcFmBxrtH_aFhjkWoEJSTIJJaTs Password: 9q&I$%&1
 
+* 7-10 刘广熠 ，王博远，张敏清
+
+  
 
 
 
