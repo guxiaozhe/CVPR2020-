@@ -14,12 +14,19 @@
 
 
 * 2020-4-10: 张蒙豪,高建焘,朱谙语
+
 * 2020-4-17: https://cuhksz.zoom.us/rec/share/55RxHqntyyROQYnBt2DxUPAcD9vkX6a82yBK8qJbnh25CuAZoTh8eUk_qlfsREUl (Access Password: w9$+?1+3)  赵伟兵, 高深
+
 * 2020-4-24: 丁伟桢 ，王钦，王博远  https://cuhksz.zoom.us/rec/share/u9xoI-v970NLT4nT5n7ZYpQgGpbVeaa80yVM_vsInxxRHNCpG_VvsUwZL9mwBRDd Password: 8s^%74$$
+
 * 2020-5-1 王博远，刘广熠 ，黄冕
+
 * 2020-5-8 张敏清，蒋云辰，徐鹏程 https://cuhksz.zoom.us/rec/share/1ddaLonitTJJE53W6kDzU4MmQqO-T6a8gXcd8voLnkzwCG4tgILGW1jGfVYxy7zP Password: 7n#8eD37
+
 * 2020-5-15 张敏清，张子逊， 秦世熙  https://cuhksz.zoom.us/rec/share/xpReDaPX83NOf6vDuHr5C4IuTqC0T6a81CYf8qEFy08leF4OXHFfWPOui4pstE7u Password: 5B!Bm#5I  
+
 * 2020-5-22 袁之浩  王艺超 顾骁哲   https://cuhksz.zoom.us/rec/share/u5dMI6mo6WRJRNb8-W36AIszD53BX6a80XNK8qAKmUpQE_L6j_NFd5UbJLI4vNMl Password: 8M!tbe&%
+
 * 2020-6-6:  徐鹏程 , 张蒙豪,  张家妍  
 
 * 2020-6-12:  郑超达 朱谙语 高深
@@ -44,6 +51,14 @@
 
 * 7-10 刘广熠 ，王博远，张敏清
 
+* 7-17 周德宇， 张子逊， 蒋云辰
+
+  For host only, click here to view your recording (Viewers cannot access this page):
+  https://cuhksz.zoom.com.cn/recording/detail?meeting_id=of8Vv7tiTmyjSAtl0tCnXw%3D%3D
+  
+  Share recording with viewers:
+  https://cuhksz.zoom.com.cn/rec/share/4sIlEa-v6mJOR53P02jDXvY9NYLVaaa8hiIfq_sKmUsxGhzG-rXc6P6SEry7JUX_ Password: 8D$y%E6@
+  
   
 
 
