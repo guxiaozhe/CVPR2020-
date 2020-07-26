@@ -59,7 +59,13 @@
   Share recording with viewers:
   https://cuhksz.zoom.com.cn/rec/share/4sIlEa-v6mJOR53P02jDXvY9NYLVaaa8hiIfq_sKmUsxGhzG-rXc6P6SEry7JUX_ Password: 8D$y%E6@
   
-  
+* 7-24  徐鹏程， 秦世熙， 顾骁哲
+
+For host only, click here to view your recording (Viewers cannot access this page):
+https://cuhksz.zoom.com.cn/recording/detail?meeting_id=VUSgDEH1TzW2UtaPlI8%2FOQ%3D%3D
+
+Share recording with viewers:
+https://cuhksz.zoom.com.cn/rec/share/2_FOIJ3d1jpOULOX1V3WYqoATsPCT6a803AYrKUOn9CaSag0aJBqBetJ2hESYnc Password: 3u#jdbu@
 
 
 
