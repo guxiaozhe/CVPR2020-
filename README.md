@@ -67,6 +67,19 @@ https://cuhksz.zoom.com.cn/recording/detail?meeting_id=VUSgDEH1TzW2UtaPlI8%2FOQ%
 Share recording with viewers:
 https://cuhksz.zoom.com.cn/rec/share/2_FOIJ3d1jpOULOX1V3WYqoATsPCT6a803AYrKUOn9CaSag0aJBqBetJ2hESYnc Password: 3u#jdbu@
 
+* 7-31 颖泓 袁之浩 高深
+
+Topic: Zhen Li's Personal Meeting Room
+Date: Aug 2, 2020 08:58 AM Beijing, Shanghai
+
+For host only, click here to view your recording (Viewers cannot access this page):
+https://cuhksz.zoom.com.cn/recording/detail?meeting_id=Q%2BGE27r%2FTgCkvGy7JOyLmA%3D%3D
+
+Share recording with viewers:
+https://cuhksz.zoom.com.cn/rec/share/3I9aAuuv7CROTafO9m7OBYwGD6DgX6a8hycd_foPn032BNe9PJlreIcuWNYU5ZeU Password: 4m@kpJHF
+
+* 8-7 
+
 
 
 
