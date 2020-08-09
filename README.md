@@ -78,9 +78,13 @@ https://cuhksz.zoom.com.cn/recording/detail?meeting_id=Q%2BGE27r%2FTgCkvGy7JOyLm
 Share recording with viewers:
 https://cuhksz.zoom.com.cn/rec/share/3I9aAuuv7CROTafO9m7OBYwGD6DgX6a8hycd_foPn032BNe9PJlreIcuWNYU5ZeU Password: 4m@kpJHF
 
-* 8-7 
+* 8-7 郑超达 张家妍 朱谙语
 
+For host only, click here to view your recording (Viewers cannot access this page):
+https://cuhksz.zoom.com.cn/recording/detail?meeting_id=8ZBiu0vXTV2KIPmN3bxAsQ%3D%3D
 
+Share recording with viewers:
+https://cuhksz.zoom.com.cn/rec/share/tf5fLqyo6FNOfNbuyXnafPUrDq3-T6a81HAb-fsFy094C5xs_tVLzvAF1MNVNUm7 Password: $W#0w&Li
 
 
 
