@@ -86,7 +86,15 @@ https://cuhksz.zoom.com.cn/recording/detail?meeting_id=8ZBiu0vXTV2KIPmN3bxAsQ%3D
 Share recording with viewers:
 https://cuhksz.zoom.com.cn/rec/share/tf5fLqyo6FNOfNbuyXnafPUrDq3-T6a81HAb-fsFy094C5xs_tVLzvAF1MNVNUm7 Password: $W#0w&Li
 
+* 8-21 颜旭 高建焘
 
+For host only, click here to view your recording (Viewers cannot access this page):
+https://cuhksz.zoom.com.cn/recording/detail?meeting_id=jqZKa9UMRa6IqMv1rxDgMQ%3D%3D
+
+Share recording with viewers:
+https://cuhksz.zoom.com.cn/rec/share/59VHDLihy0ZIS9Ls8WTBA7QxMovAT6a80Cke86YOmEw5W89fOreF9OdEpAKZIHy3 Password: 2=NbP.5O
+
+* 8-28 魏军 周德宇 车辉
 
 
 
