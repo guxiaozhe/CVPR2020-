@@ -96,9 +96,14 @@ https://cuhksz.zoom.com.cn/rec/share/59VHDLihy0ZIS9Ls8WTBA7QxMovAT6a80Cke86YOmEw
 
 * 8-28 魏军 周德宇 车辉
 
+opic: Zhen Li's Personal Meeting Room
+Date: Aug 28, 2020 08:56 AM Beijing, Shanghai
 
+For host only, click here to view your recording (Viewers cannot access this page):
+https://cuhksz.zoom.com.cn/recording/detail?meeting_id=AYGB0TJ6T0adW%2BimhF93hg%3D%3D
 
-
+Share recording with viewers:
+https://cuhksz.zoom.com.cn/rec/share/zP1aBenM1D1OGoXB1wLeX64PT9_leaa813Ub-KdcmBsRigUUjAmnT8GLMG93JSPA Passcode: %i!u%?1X
 
 
 
