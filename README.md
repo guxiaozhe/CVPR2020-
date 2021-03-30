@@ -15,7 +15,7 @@
 | xxx        | 李卓 | 脑机交互相关 |
 | xxx        | 秦世熙 |                                                         |
 | xxx        | 廖颖泓 | |
-| xxx        | 刘广熠 | |
+| xxx        | 刘广熠 | Scheduled sampling for sequence prediction |
 | xxx        | 车辉 | |
 | xxx | 王钦 | |
 | xxx | 张家妍 | |
@@ -23,7 +23,7 @@
 | xxx | 仇泽伟 | |
 | xxx | 顾晓哲 | |
 | xxx | 袁之浩 | |
-| xxx | 蒋云丞 | |
+| xxx | 蒋云丞 | NAS+小样本分割                                          |
 | xxx | 韩亚潼 | |
 | xxx | 占贺深 | |
 | xxx | 高建焘 | |
@@ -33,6 +33,10 @@
 | |  | |
 | |  | |
 | |  | |
+
+
+
+
 
 
 
