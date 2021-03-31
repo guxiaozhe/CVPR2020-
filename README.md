@@ -13,7 +13,7 @@
 | 2021-04-13 | 周文鼎 | EEG |
 | xxx        | 徐鹏程 | Domain Adaption |
 | xxx        | 李卓 | 脑机交互相关 |
-| xxx        | 秦世熙 |                                                         |
+| xxx        | 秦世熙 | two-stage NAS                                           |
 | xxx        | 廖颖泓 | |
 | xxx        | 刘广熠 | Scheduled sampling for sequence prediction |
 | xxx        | 车辉 | |
@@ -21,7 +21,7 @@
 | xxx | 张家妍 | |
 | xxx | 赵伟兵 | |
 | xxx | 仇泽伟 | |
-| xxx | 顾晓哲 | |
+| xxx | 顾晓哲 | Model Compression; Training Strategy. |
 | xxx | 袁之浩 | |
 | xxx | 蒋云丞 | NAS+小样本分割                                          |
 | xxx | 韩亚潼 | |
