@@ -17,7 +17,7 @@
 | xxx        | 廖颖泓 | |
 | xxx        | 刘广熠 | Scheduled sampling for sequence prediction |
 | xxx        | 车辉 | |
-| xxx | 王钦 | |
+| xxx | 王钦 | 无监督蛋白质结构预测 |
 | xxx | 张家妍 | |
 | xxx | 赵伟兵 | |
 | xxx | 仇泽伟 | |
