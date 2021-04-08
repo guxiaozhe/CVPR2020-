@@ -11,9 +11,9 @@
 | 2021-04-13 | 胡译文 | 息肉分割 |
 | 2021-04-13 | 颜旭 | 点云 CVPR2021 |
 | 2021-04-13 | 周文鼎 | EEG |
-| xxx        | 徐鹏程 | Domain Adaption |
-| xxx        | 李卓 | 脑机交互相关 |
-| xxx        | 秦世熙 | two-stage NAS                                           |
+| 2021-04-20 | 徐鹏程 | Domain Adaption |
+| 2021-04-20 | 李卓 | 脑机交互相关 |
+| 2021-04-20 | 秦世熙 | two-stage NAS                                           |
 | xxx        | 廖颖泓 | |
 | xxx        | 刘广熠 | Scheduled sampling for sequence prediction |
 | xxx        | 车辉 | |
