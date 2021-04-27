@@ -11,15 +11,14 @@
 | 2021-04-13 | 胡译文 | 息肉分割 |
 | 2021-04-13 | 颜旭 | 点云 CVPR2021 |
 | 2021-04-13 | 周文鼎 | EEG |
-| 2021-04-20 | 徐鹏程 | Domain Adaption |
 | 2021-04-20 | 李卓 | 脑机交互相关 |
 | 2021-04-20 | 秦世熙 | two-stage NAS                                           |
-| xxx        | 廖颖泓 | |
-| xxx        | 刘广熠 | Scheduled sampling for sequence prediction |
-| xxx        | 车辉 | |
-| xxx | 王钦 | 无监督蛋白质结构预测 |
-| xxx | 张家妍 | |
-| xxx | 赵伟兵 | |
+| 2021-04-27 | 徐鹏程 | Domain Adaption |
+| 2021-04-27 | 廖颖泓 | |
+| 2021-04-27 | 刘广熠 | Scheduled sampling for sequence prediction |
+| 2021-05-11 | 王钦 | 无监督蛋白质结构预测 |
+| 2021-05-11 | 张家妍 | |
+| 2021-05-11 | 赵伟兵 | |
 | xxx | 仇泽伟 | |
 | xxx | 顾晓哲 | Model Compression; Training Strategy. |
 | xxx | 袁之浩 | |
