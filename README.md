@@ -15,10 +15,11 @@
 | 2021-04-20 | 秦世熙 | two-stage NAS                                           |
 | 2021-04-27 | 徐鹏程 | Domain Adaption |
 | 2021-04-27 | 廖颖泓 | |
-| 2021-04-27 | 刘广熠 | Scheduled sampling for sequence prediction |
+| 2021-04-27 | 高深 |                                                         |
+| 2021-05-11 | 刘广熠 |  |
 | 2021-05-11 | 王钦 | 无监督蛋白质结构预测 |
 | 2021-05-11 | 张家妍 | |
-| 2021-05-11 | 赵伟兵 | |
+| Xxx        | 赵伟兵 | |
 | xxx | 仇泽伟 | |
 | xxx | 顾晓哲 | Model Compression; Training Strategy. |
 | xxx | 袁之浩 | |
@@ -26,7 +27,7 @@
 | xxx | 韩亚潼 | |
 | xxx | 占贺深 | |
 | xxx | 高建焘 | |
-| xxx | 高深 | |
+| xxx |        | |
 | xxx | 郑超达 | |
 | |        |  |
 | |  | |
